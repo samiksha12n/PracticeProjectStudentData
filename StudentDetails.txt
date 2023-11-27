@@ -1,0 +1,9 @@
+Student Details
+student 1 name
+Sam
+Grade : A
+Branch : CS
+Student 2 name
+Deepesh
+Grade : A
+Branch : EC

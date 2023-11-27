@@ -1,0 +1,7 @@
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\24thAssignment\RetrivestudentData\RetrivestudentData\bin\Debug\RetrivestudentData.exe.config
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\24thAssignment\RetrivestudentData\RetrivestudentData\bin\Debug\RetrivestudentData.exe
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\24thAssignment\RetrivestudentData\RetrivestudentData\bin\Debug\RetrivestudentData.pdb
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\24thAssignment\RetrivestudentData\RetrivestudentData\obj\Debug\RetrivestudentData.csproj.AssemblyReference.cache
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\24thAssignment\RetrivestudentData\RetrivestudentData\obj\Debug\RetrivestudentData.csproj.CoreCompileInputs.cache
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\24thAssignment\RetrivestudentData\RetrivestudentData\obj\Debug\RetrivestudentData.exe
+C:\Users\Samiksha\OneDrive\Desktop\GitAssignment\24thAssignment\RetrivestudentData\RetrivestudentData\obj\Debug\RetrivestudentData.pdb
